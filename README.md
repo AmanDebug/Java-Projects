@@ -1,2 +1,3 @@
 # Java Projects
-Here I will be creating various projects in order to enhance and showcase how far I have learned
+Hi there.
+So I have created my very first project in Java language and its to be honest by far 
